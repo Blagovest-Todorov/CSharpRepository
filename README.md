@@ -1,2 +1,2 @@
 # CSharpRepository
-a repositoru to be deleted
+a repository to be deleted
